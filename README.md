@@ -19,7 +19,7 @@ When activated, this skill guides you to build accessible UI components with:
 Copy to your project's `.cursor/skills/` folder:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/accessible-ui-skill.git .cursor/skills/accessible-ui
+git clone https://github.com/Laima-Mazeikyte/accessible-ui-skill.git .cursor/skills/accessible-ui
 ```
 
 ### Option 2: User-Level (All Projects)
@@ -27,7 +27,7 @@ git clone https://github.com/YOUR_USERNAME/accessible-ui-skill.git .cursor/skill
 Copy to your global Cursor skills folder:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/accessible-ui-skill.git ~/.cursor/skills/accessible-ui
+git clone https://github.com/Laima-Mazeikyte/accessible-ui-skill.git ~/.cursor/skills/accessible-ui
 ```
 
 ## Contents
