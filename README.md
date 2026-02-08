@@ -1,4 +1,4 @@
-# Accessible UI - Cursor Skill
+# Make It Accessible - Cursor Skill
 
 A Cursor IDE skill that provides accessibility guidelines and patterns for building WCAG 2.2 AA compliant HTML.
 
@@ -19,7 +19,7 @@ When activated, this skill guides you to build accessible UI components with:
 Copy to your project's `.cursor/skills/` folder:
 
 ```bash
-git clone https://github.com/Laima-Mazeikyte/accessible-ui-skill.git .cursor/skills/accessible-ui
+git clone https://github.com/Laima-Mazeikyte/make-it-accessible-skill.git .cursor/skills/make-it-accessible
 ```
 
 ### Option 2: User-Level (All Projects)
@@ -27,7 +27,7 @@ git clone https://github.com/Laima-Mazeikyte/accessible-ui-skill.git .cursor/ski
 Copy to your global Cursor skills folder:
 
 ```bash
-git clone https://github.com/Laima-Mazeikyte/accessible-ui-skill.git ~/.cursor/skills/accessible-ui
+git clone https://github.com/Laima-Mazeikyte/make-it-accessible-skill.git ~/.cursor/skills/make-it-accessible
 ```
 
 ## Contents
@@ -52,3 +52,11 @@ The skill automatically activates when you ask Cursor to:
 ## License
 
 MIT
+
+## Created by
+
+**Team a11y**
+
+Kitty Huang, Laima Mazeikyte, Ingrid Morancho, Turgut Hatipoglu, Isaac Vigil
+
+*IDS Hackathon 2026*

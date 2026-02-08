@@ -1,9 +1,9 @@
 ---
-name: accessible-ui
+name: Make It Accessible
 description: Accessibility guidelines and patterns for building WCAG 2.2 AA compliant HTML. Use when creating base page structures, building reusable UI components, or implementing forms. Provides guidance on semantic HTML, ARIA labels, alt text, keyboard navigation, and contrast ratios. Triggers on requests for accessible forms, page layouts, navigation, or any UI component that needs accessibility support.
 ---
 
-# Accessible UI
+# Make It Accessible
 
 Provide accessible, framework-agnostic HTML patterns that comply with WCAG 2.2 AA.
 
